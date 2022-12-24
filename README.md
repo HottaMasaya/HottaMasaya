@@ -9,7 +9,7 @@
 
 現職が嫌いなわけではないですが、正直誰にでもできてしまうお仕事なので将来のことを考えてエンジニアになることを決意しました。
 
-
+わからないことだらけで不安ですが、頑張って食らいついていきます！よろしくおねがいします！
 
 <!---
 HottaMasaya/HottaMasaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
